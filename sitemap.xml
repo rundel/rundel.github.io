@@ -1,205 +1,203 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/home/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/home/teaching/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/home/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/home/software/</loc>
+  </url><url>
     <loc>/home/talks/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/home/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022-tidyverse/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022-elephant_poop2/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/software/ghclass/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-teaching_github/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021_rstudio_global/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/software/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2020_tlmsco/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2020_jsm/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2020_tsdso/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2020_rstudio_conf/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/software/parsermd/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2020-teaching_bayes/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2019_jsm/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2019_jsm_workshop/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2019_user/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2019_sdss/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2019-elephant_poop1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/software/md4r/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2018_icots/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/software/checklist/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2018_isba/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2017_jsm/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2017_user/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2017-stat_comp_curriculum/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+  </url><url>
+    <loc>/software/learnrhash/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2016_jsm/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2016_user/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2015_jsm/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/software/diffmatchpatch/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2015_user/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2015-pm25/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2014_jsm/</loc>
     <lastmod>2014-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/software/livecode/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2014_dabss/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2014_dss/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2013_jsm/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2013_user/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2013-isoscat/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2012_jsm/</loc>
     <lastmod>2012-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2012_user/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/2011_jsm/</loc>
     <lastmod>2011-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2011-language_health/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2006-fruit_flies/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/software/rgeos/</loc>
+    <lastmod>1965-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/software/rcppgp/</loc>
+    <lastmod>1960-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cur_teaching/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/home/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/prev_uoe_teaching/math_08068/</loc>
+  </url><url>
+    <loc>/prev_uoe_teaching/math_11176/</loc>
+  </url><url>
+    <loc>/prev_uoe_teaching/math_11205/</loc>
+  </url><url>
     <loc>/prev_teaching/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/prev_uoe_teaching/</loc>
+  </url><url>
     <loc>/prev_teaching/sta_030/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/prev_teaching/sta_102/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/prev_teaching/sta_111/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/prev_teaching/sta_112/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/prev_teaching/sta_230/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cur_teaching/sta_323/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/prev_teaching/sta_323/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/prev_teaching/sta_444_644/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/cur_teaching/sta_523/</loc>
+  </url><url>
     <loc>/prev_teaching/sta_523/</loc>
-  </url>
-  
-  <url>
-    <loc>/cur_teaching/sta_790/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/cur_teaching/sta_663/</loc>
+  </url><url>
+    <loc>/prev_teaching/sta_790/</loc>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>

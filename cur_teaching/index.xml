@@ -6,11 +6,7 @@
     <description>Recent content in Cur_teachings on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Colin Rundel</copyright>
-    
-	<atom:link href="/cur_teaching/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2021 Colin Rundel</copyright><atom:link href="/cur_teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sta 323 - Statistical Computing </title>
       <link>/cur_teaching/sta_323/</link>
@@ -21,11 +17,20 @@
     </item>
     
     <item>
-      <title>Sta 790 - Advanced Statistical Computing</title>
-      <link>/cur_teaching/sta_790/</link>
+      <title>Sta 523 - Programming for Statistical Science (R)</title>
+      <link>/cur_teaching/sta_523/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cur_teaching/sta_790/</guid>
+      <guid>/cur_teaching/sta_523/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 663 - Statistical Computing and Computation (Python) </title>
+      <link>/cur_teaching/sta_663/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cur_teaching/sta_663/</guid>
       <description></description>
     </item>
     

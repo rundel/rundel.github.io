@@ -6,11 +6,88 @@
     <description>Recent content in Talks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Colin Rundel</copyright>
-    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Colin Rundel</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>parsermd - parsing R Markdown for fun and profit</title>
+      <link>/talk/2021_rstudio_global/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2021_rstudio_global/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching computing using git and GitHub</title>
+      <link>/talk/2020_tlmsco/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_tlmsco/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Computation Infrastructure for Teaching Bayesian Modeling (Invited)</title>
+      <link>/talk/2020_jsm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Statistics and Data Science Online</title>
+      <link>/talk/2020_tsdso/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_tsdso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livecode: broadcast your live coding sessions from and to RStudio</title>
+      <link>/talk/2020_rstudio_conf/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_rstudio_conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghclass: an R package for managing classes with GitHub</title>
+      <link>/talk/2019_jsm/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Computing (Workshop)</title>
+      <link>/talk/2019_jsm_workshop/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_jsm_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghclass: an R package for managing classes with GitHub</title>
+      <link>/talk/2019_user/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Rocker containers and CI for teaching R-based courses (Invited)</title>
+      <link>/talk/2019_sdss/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_sdss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Teaching Data Science, Reproducibly (Workshop)</title>

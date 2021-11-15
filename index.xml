@@ -6,12 +6,8 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Colin Rundel</copyright>
-    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2021 Colin Rundel</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>/home/about/</link>
@@ -40,6 +36,15 @@
     </item>
     
     <item>
+      <title>Software</title>
+      <link>/home/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Talks</title>
       <link>/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,11 +63,173 @@
     </item>
     
     <item>
+      <title>An educator&#39;s perspective of the tidyverse</title>
+      <link>/publication/2022-tidyverse/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-tidyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long distance seed dispersal by forest elephants</title>
+      <link>/publication/2022-elephant_poop2/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-elephant_poop2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghclass</title>
+      <link>/software/ghclass/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/software/ghclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Version Control With Git and GitHub as a Learning Objective in Statistics and Data Science Courses</title>
+      <link>/publication/2021-teaching_github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-teaching_github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsermd - parsing R Markdown for fun and profit</title>
+      <link>/talk/2021_rstudio_global/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2021_rstudio_global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching computing using git and GitHub</title>
+      <link>/talk/2020_tlmsco/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_tlmsco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation Infrastructure for Teaching Bayesian Modeling (Invited)</title>
+      <link>/talk/2020_jsm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Statistics and Data Science Online</title>
+      <link>/talk/2020_tsdso/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_tsdso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livecode: broadcast your live coding sessions from and to RStudio</title>
+      <link>/talk/2020_rstudio_conf/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020_rstudio_conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsermd</title>
+      <link>/software/parsermd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/software/parsermd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching an Undergraduate Course in Bayesian Statistics: A Panel Discussion</title>
+      <link>/publication/2020-teaching_bayes/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-teaching_bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghclass: an R package for managing classes with GitHub</title>
+      <link>/talk/2019_jsm/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Computing (Workshop)</title>
+      <link>/talk/2019_jsm_workshop/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_jsm_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghclass: an R package for managing classes with GitHub</title>
+      <link>/talk/2019_user/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Rocker containers and CI for teaching R-based courses (Invited)</title>
+      <link>/talk/2019_sdss/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_sdss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of gut passage time of wild, free roaming forest elephants</title>
+      <link>/publication/2019-elephant_poop1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-elephant_poop1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>md4r</title>
+      <link>/software/md4r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/software/md4r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teaching Data Science, Reproducibly (Workshop)</title>
       <link>/talk/2018_icots/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/talk/2018_icots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>checklist</title>
+      <link>/software/checklist/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/software/checklist/</guid>
       <description></description>
     </item>
     
@@ -103,6 +270,15 @@
     </item>
     
     <item>
+      <title>learnrhash</title>
+      <link>/software/learnrhash/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/learnrhash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical Computing as an Introduction to Data Science (Invited)</title>
       <link>/talk/2016_jsm/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
@@ -130,6 +306,15 @@
     </item>
     
     <item>
+      <title>diffmatchpatch</title>
+      <link>/software/diffmatchpatch/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/software/diffmatchpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teaching R using the github ecosystem</title>
       <link>/talk/2015_user/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
@@ -153,6 +338,15 @@
       <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>/talk/2014_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livecode</title>
+      <link>/software/livecode/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/software/livecode/</guid>
       <description></description>
     </item>
     
@@ -247,6 +441,51 @@
     </item>
     
     <item>
+      <title>rgeos</title>
+      <link>/software/rgeos/</link>
+      <pubDate>Fri, 01 Jan 1965 00:00:00 +0000</pubDate>
+      
+      <guid>/software/rgeos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RcppGP</title>
+      <link>/software/rcppgp/</link>
+      <pubDate>Fri, 01 Jan 1960 00:00:00 +0000</pubDate>
+      
+      <guid>/software/rcppgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math 08068 - Facets of Mathematics</title>
+      <link>/prev_uoe_teaching/math_08068/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_uoe_teaching/math_08068/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math 11176 - Statistical Programming</title>
+      <link>/prev_uoe_teaching/math_11176/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_uoe_teaching/math_11176/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math 11205 - Machine Learning in Python</title>
+      <link>/prev_uoe_teaching/math_11205/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_uoe_teaching/math_11205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sta 030 - Statistics and Quantitative Literacy</title>
       <link>/prev_teaching/sta_030/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -301,7 +540,7 @@
     </item>
     
     <item>
-      <title>Sta 323 - Statistical Computing </title>
+      <title>Sta 323 - Statistical Computing (R)</title>
       <link>/prev_teaching/sta_323/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -319,7 +558,16 @@
     </item>
     
     <item>
-      <title>Sta 523 - Statistical Programming</title>
+      <title>Sta 523 - Programming for Statistical Science (R)</title>
+      <link>/cur_teaching/sta_523/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cur_teaching/sta_523/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 523 - Programming for Statistical Science (R)</title>
       <link>/prev_teaching/sta_523/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -328,11 +576,20 @@
     </item>
     
     <item>
-      <title>Sta 790 - Advanced Statistical Computing</title>
-      <link>/cur_teaching/sta_790/</link>
+      <title>Sta 663 - Statistical Computing and Computation (Python) </title>
+      <link>/cur_teaching/sta_663/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cur_teaching/sta_790/</guid>
+      <guid>/cur_teaching/sta_663/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 790 - Advanced Statistical Computing</title>
+      <link>/prev_teaching/sta_790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_790/</guid>
       <description></description>
     </item>
     

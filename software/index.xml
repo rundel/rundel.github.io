@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on </title>
+    <link>/software/</link>
+    <description>Recent content in Softwares on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Colin Rundel</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ghclass</title>
+      <link>/software/ghclass/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/software/ghclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsermd</title>
+      <link>/software/parsermd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/software/parsermd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>md4r</title>
+      <link>/software/md4r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/software/md4r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>checklist</title>
+      <link>/software/checklist/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/software/checklist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learnrhash</title>
+      <link>/software/learnrhash/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/learnrhash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffmatchpatch</title>
+      <link>/software/diffmatchpatch/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/software/diffmatchpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livecode</title>
+      <link>/software/livecode/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/software/livecode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rgeos</title>
+      <link>/software/rgeos/</link>
+      <pubDate>Fri, 01 Jan 1965 00:00:00 +0000</pubDate>
+      
+      <guid>/software/rgeos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RcppGP</title>
+      <link>/software/rcppgp/</link>
+      <pubDate>Fri, 01 Jan 1960 00:00:00 +0000</pubDate>
+      
+      <guid>/software/rcppgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

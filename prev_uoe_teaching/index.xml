@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prev_uoe_teachings on </title>
+    <link>/prev_uoe_teaching/</link>
+    <description>Recent content in Prev_uoe_teachings on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Colin Rundel</copyright><atom:link href="/prev_uoe_teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math 08068 - Facets of Mathematics</title>
+      <link>/prev_uoe_teaching/math_08068/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_uoe_teaching/math_08068/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math 11176 - Statistical Programming</title>
+      <link>/prev_uoe_teaching/math_11176/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_uoe_teaching/math_11176/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math 11205 - Machine Learning in Python</title>
+      <link>/prev_uoe_teaching/math_11205/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_uoe_teaching/math_11205/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
