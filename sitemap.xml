@@ -15,16 +15,55 @@
     <loc>/home/contact/</loc>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2025_posit_conf/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2025_user/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2025_dsc/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2024_posit_conf/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2024_jsm/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2023_posit_conf/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2023_jsm/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2023_preparing_to_teach/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2022_rstudio_conf/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2022-tidyverse/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2022_isba/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2022-elephant_poop2/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <loc>/talk/2022_twr/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022-responsible_workflow/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021_isi/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/software/ghclass/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
@@ -32,13 +71,13 @@
     <loc>/publication/2021-teaching_github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/2022-elephant_poop2/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2021_rstudio_global/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/software/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2020_tlmsco/</loc>
@@ -113,6 +152,9 @@
     <loc>/talk/2015_user/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/talk/2015_dabss/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/2015-pm25/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -121,9 +163,6 @@
   </url><url>
     <loc>/software/livecode/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/2014_dabss/</loc>
-    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2014_dss/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
@@ -164,6 +203,8 @@
   </url><url>
     <loc>/home/</loc>
   </url><url>
+    <loc>/software/markermd/</loc>
+  </url><url>
     <loc>/prev_uoe_teaching/math_08068/</loc>
   </url><url>
     <loc>/prev_uoe_teaching/math_11176/</loc>
@@ -184,9 +225,9 @@
   </url><url>
     <loc>/prev_teaching/sta_230/</loc>
   </url><url>
-    <loc>/cur_teaching/sta_323/</loc>
-  </url><url>
     <loc>/prev_teaching/sta_323/</loc>
+  </url><url>
+    <loc>/prev_teaching/sta_344/</loc>
   </url><url>
     <loc>/prev_teaching/sta_444_644/</loc>
   </url><url>
@@ -194,7 +235,7 @@
   </url><url>
     <loc>/prev_teaching/sta_523/</loc>
   </url><url>
-    <loc>/cur_teaching/sta_663/</loc>
+    <loc>/prev_teaching/sta_663/</loc>
   </url><url>
     <loc>/prev_teaching/sta_790/</loc>
   </url><url>

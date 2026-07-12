@@ -1,237 +1,278 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Talks on </title>
-    <link>/talk/</link>
-    <description>Recent content in Talks on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2021 Colin Rundel</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>parsermd - parsing R Markdown for fun and profit</title>
-      <link>/talk/2021_rstudio_global/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2021_rstudio_global/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching computing using git and GitHub</title>
-      <link>/talk/2020_tlmsco/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2020_tlmsco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computation Infrastructure for Teaching Bayesian Modeling (Invited)</title>
-      <link>/talk/2020_jsm/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2020_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching Statistics and Data Science Online</title>
-      <link>/talk/2020_tsdso/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2020_tsdso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>livecode: broadcast your live coding sessions from and to RStudio</title>
-      <link>/talk/2020_rstudio_conf/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2020_rstudio_conf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ghclass: an R package for managing classes with GitHub</title>
-      <link>/talk/2019_jsm/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducible Computing (Workshop)</title>
-      <link>/talk/2019_jsm_workshop/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019_jsm_workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ghclass: an R package for managing classes with GitHub</title>
-      <link>/talk/2019_user/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Rocker containers and CI for teaching R-based courses (Invited)</title>
-      <link>/talk/2019_sdss/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019_sdss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching Data Science, Reproducibly (Workshop)</title>
-      <link>/talk/2018_icots/</link>
-      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2018_icots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducible Computing (Workshop)</title>
-      <link>/talk/2018_isba/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2018_isba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moving Away from Ad Hoc Statistical Computing Education (Invited)</title>
-      <link>/talk/2017_jsm/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Carpentry: Open and Reproducible Research with R (Tutorial)</title>
-      <link>/talk/2017_user/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Computing as an Introduction to Data Science (Invited)</title>
-      <link>/talk/2016_jsm/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2016_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration and Teaching Statistical Computing with R</title>
-      <link>/talk/2016_user/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2016_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching statistical computing leveraging the github ecosystem</title>
-      <link>/talk/2015_jsm/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2015_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching R using the github ecosystem</title>
-      <link>/talk/2015_user/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2015_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Data Fusion Approach for Space-Time Analysis of Speciated PM$_{2.5}$</title>
-      <link>/talk/2014_jsm/</link>
-      <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2014_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geospatial data and the R ecosystem</title>
-      <link>/talk/2014_dabss/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2014_dabss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using GPUs to improve the computational efficiency of Gaussian process models</title>
-      <link>/talk/2014_dss/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2014_dss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPUs, linear algebra, and efficient computing for Gaussian process models</title>
-      <link>/talk/2013_jsm/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2013_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging GPU libraries for efficient computation of Gaussian process models in R</title>
-      <link>/talk/2013_user/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2013_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging GPU Libraries for Efficient Computation of Bayesian Spatial Assignment Models in R</title>
-      <link>/talk/2012_jsm/</link>
-      <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2012_jsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rgeos: spatial geometry predicates and topology operations in R</title>
-      <link>/talk/2012_user/</link>
-      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2012_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Models for Bird Origin Assignment Using Genetic and Isotopic Data</title>
-      <link>/talk/2011_jsm/</link>
-      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2011_jsm/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Talks on </title>
+		<link>/talk/</link>
+		<description>Recent content in Talks on </description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>&amp;copy; 2021 Colin Rundel</copyright>
+		
+		
+			<lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Shiny for R (Workshop)</title>
+				<link>/talk/2025_posit_conf/</link>
+				<pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>/talk/2025_posit_conf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Parsing Quarto and R Markdown documents in R</title>
+				<link>/talk/2025_user/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>/talk/2025_user/</guid>
+				<description>&lt;p&gt;In this talk, we will share recent work on &lt;a href=&#34;https://github.com/rundel/parsermd&#34;&gt;parsermd&lt;/a&gt; R package and its use for the programmatic manipulation of Quarto and R Markdown documents. The talk will include a brief overview of the underlying technical details of the parser and abstract syntax tree (AST) representation of these documents in R. Additionally, we will present work to support a number of use cases for these tools to solve practical problems. Examples include building documents that have multiple output variants (e.g. assignments with or without solutions included) and utilities built to support grading and feedback for assignments based on these document formats. Finally, we will discuss our future development plans for the package and related tools.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reflections on a decade of teaching statistical computing (Invited)</title>
+				<link>/talk/2025_dsc/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>/talk/2025_dsc/</guid>
+				<description>&lt;p&gt;Over the last decade, developing and teaching STA 523 (Programming for Statistical Science) and STA 323 (Statistical Computing) at Duke University has provided a unique vantage point on the evolving landscape of statistics and data science. These courses, required for our master&amp;rsquo;s and undergraduate students, focus on practical and modern approaches to statistical programming using the R programming language, and integrating best practices in version control, collaborative coding, literate and reproducible programming, and efficient computing. The curriculum is designed to be interactive and hands-on, with students engaging in real-world programming challenges spanning data collection, cleaning, visualization, simulation, modeling, and workflow automation. Over the years, the courses have had to adapt to incorporate new tools and pedagogical strategies, reflecting the rapid evolution of the field. This talk will reflect on key developments, challenges, and successes in teaching computational statistics at Duke, highlighting the impact of these approaches both within the courses but also within the larger departmental curricula.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Introduction to Shiny for R (Workshop)</title>
+				<link>/talk/2024_posit_conf/</link>
+				<pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+				<guid>/talk/2024_posit_conf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Programmatic Manipulation of Quarto Documents for Teaching (Invited)</title>
+				<link>/talk/2024_jsm/</link>
+				<pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+				<guid>/talk/2024_jsm/</guid>
+				<description>&lt;p&gt;In this talk we will discuss the use of the parsermd package for the programmatic manipulation of Quarto documents. As the name implies the parsermd package was originally developed for the parsing and manipulation of RMarkdown documents, but we have recently worked to expand this functionality to support Quarto documents and their specific features (e.g. fenced divs, yaml chunk options, shortcodes, etc.). We will briefly review the structure of a typical Quarto document and how this is then represented within R once parsed as an abstract syntax tree (AST). The remainder of the talk will then focus on practical usage examples of these tools for teaching with Quarto, including automated feedback and cleaning, document restructuring, and others time permitting.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Introduction to Shiny (Workshop)</title>
+				<link>/talk/2023_posit_conf/</link>
+				<pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+				<guid>/talk/2023_posit_conf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Quarto and automation in teaching statistical computing (Invited)</title>
+				<link>/talk/2023_jsm/</link>
+				<pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>/talk/2023_jsm/</guid>
+				<description>&lt;p&gt;In this talk we will discuss the use of GitHub actions and Quarto to provide automated feedback to students in a variety of statistical computing courses. These courses span the undergraduate and graduate curriculum and make use of both R and Python. The flexibility and power of the Quarto framework provide for the development of common tooling and workflows that can be adapted the specific needs of each course. We will provide concrete examples of how these tools are currently being used in these courses as well as discussing how they can be extended and adopted for new courses.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Teaching-focused careers</title>
+				<link>/talk/2023_preparing_to_teach/</link>
+				<pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+				<guid>/talk/2023_preparing_to_teach/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Introduction to Shiny (Workshop)</title>
+				<link>/talk/2022_rstudio_conf/</link>
+				<pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+				<guid>/talk/2022_rstudio_conf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>An overview of Bayesian computational frameworks for teaching</title>
+				<link>/talk/2022_isba/</link>
+				<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+				<guid>/talk/2022_isba/</guid>
+				<description>&lt;p&gt;Bayesian modeling has never been more accessible and widespread, this is due in large part to development of modern Bayesian computational frameworks like BUGS, JAGS, Stan, etc. While this wealth of choices is empowering, it can also be overwhelming to new users trying to decide where to start. This is particularly true for instructors who need to carefully weight the advantages and disadvantages of these frameworks in the context of their target audience and desired learning outcomes. In this talk we will discuss some of the more popular options (JAGS, Stan, PyMC3, and others) with a focus on integrating them into a Bayesian modeling courses at both the undergraduate and graduate level. Specific attention will be given to the larger ecosystem for each framework, as well as considerations around syntax, efficiency,  and performance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Teaching Statistical Computing with Git and GitHub</title>
+				<link>/talk/2022_twr/</link>
+				<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+				<guid>/talk/2022_twr/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching Data Science (Workshop)</title>
+				<link>/talk/2021_isi/</link>
+				<pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+				<guid>/talk/2021_isi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>parsermd - parsing R Markdown for fun and profit</title>
+				<link>/talk/2021_rstudio_global/</link>
+				<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+				<guid>/talk/2021_rstudio_global/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching computing using git and GitHub</title>
+				<link>/talk/2020_tlmsco/</link>
+				<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+				<guid>/talk/2020_tlmsco/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Computation Infrastructure for Teaching Bayesian Modeling (Invited)</title>
+				<link>/talk/2020_jsm/</link>
+				<pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>/talk/2020_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching Statistics and Data Science Online</title>
+				<link>/talk/2020_tsdso/</link>
+				<pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+				<guid>/talk/2020_tsdso/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>livecode: broadcast your live coding sessions from and to RStudio</title>
+				<link>/talk/2020_rstudio_conf/</link>
+				<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<guid>/talk/2020_rstudio_conf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ghclass: an R package for managing classes with GitHub</title>
+				<link>/talk/2019_jsm/</link>
+				<pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+				<guid>/talk/2019_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reproducible Computing (Workshop)</title>
+				<link>/talk/2019_jsm_workshop/</link>
+				<pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+				<guid>/talk/2019_jsm_workshop/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ghclass: an R package for managing classes with GitHub</title>
+				<link>/talk/2019_user/</link>
+				<pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+				<guid>/talk/2019_user/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Using Rocker containers and CI for teaching R-based courses (Invited)</title>
+				<link>/talk/2019_sdss/</link>
+				<pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+				<guid>/talk/2019_sdss/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching Data Science, Reproducibly (Workshop)</title>
+				<link>/talk/2018_icots/</link>
+				<pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+				<guid>/talk/2018_icots/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reproducible Computing (Workshop)</title>
+				<link>/talk/2018_isba/</link>
+				<pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+				<guid>/talk/2018_isba/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Moving Away from Ad Hoc Statistical Computing Education (Invited)</title>
+				<link>/talk/2017_jsm/</link>
+				<pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+				<guid>/talk/2017_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Carpentry: Open and Reproducible Research with R (Tutorial)</title>
+				<link>/talk/2017_user/</link>
+				<pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+				<guid>/talk/2017_user/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Statistical Computing as an Introduction to Data Science (Invited)</title>
+				<link>/talk/2016_jsm/</link>
+				<pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+				<guid>/talk/2016_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Continuous Integration and Teaching Statistical Computing with R</title>
+				<link>/talk/2016_user/</link>
+				<pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>/talk/2016_user/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching statistical computing leveraging the github ecosystem</title>
+				<link>/talk/2015_jsm/</link>
+				<pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+				<guid>/talk/2015_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching R using the github ecosystem</title>
+				<link>/talk/2015_user/</link>
+				<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid>/talk/2015_user/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Geospatial data and the R ecosystem</title>
+				<link>/talk/2015_dabss/</link>
+				<pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+				<guid>/talk/2015_dabss/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A Data Fusion Approach for Space-Time Analysis of Speciated PM$_{2.5}$</title>
+				<link>/talk/2014_jsm/</link>
+				<pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
+				<guid>/talk/2014_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Using GPUs to improve the computational efficiency of Gaussian process models</title>
+				<link>/talk/2014_dss/</link>
+				<pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+				<guid>/talk/2014_dss/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GPUs, linear algebra, and efficient computing for Gaussian process models</title>
+				<link>/talk/2013_jsm/</link>
+				<pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+				<guid>/talk/2013_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Leveraging GPU libraries for efficient computation of Gaussian process models in R</title>
+				<link>/talk/2013_user/</link>
+				<pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+				<guid>/talk/2013_user/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Leveraging GPU Libraries for Efficient Computation of Bayesian Spatial Assignment Models in R</title>
+				<link>/talk/2012_jsm/</link>
+				<pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
+				<guid>/talk/2012_jsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>rgeos: spatial geometry predicates and topology operations in R</title>
+				<link>/talk/2012_user/</link>
+				<pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+				<guid>/talk/2012_user/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Spatial Models for Bird Origin Assignment Using Genetic and Isotopic Data</title>
+				<link>/talk/2011_jsm/</link>
+				<pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+				<guid>/talk/2011_jsm/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
